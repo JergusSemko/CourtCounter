@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_1">4dp</dimen>
+    <dimen name="text_size_1">14sp</dimen>
+    <dimen name="base_layout_width">0dp</dimen>
+    <dimen name="team_a_padding">4dp</dimen>
+    <dimen name="team_a_text_size">56sp</dimen>
+    <dimen name="a_2_points">8dp</dimen>
+    <dimen name="a_free_mar">8dp</dimen>
+    <dimen name="a_1_width">0dp</dimen>
+    <dimen name="b_padding">4dp</dimen>
+    <dimen name="b_text_size">14sp</dimen>
+    <dimen name="b_score_padding">4dp</dimen>
+    <dimen name="b_score_text_size">56sp</dimen>
+    <dimen name="b_3_mar">8dp</dimen>
+    <dimen name="b_2_mar">8dp</dimen>
+    <dimen name="b_1_mar">8dp</dimen>
+    <dimen name="line_width">1dp</dimen>
+    <dimen name="line_bottom_mar">50dp</dimen>
+    <dimen name="line_top_mar">10dp</dimen>
+</resources>
